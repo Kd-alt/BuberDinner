@@ -1,0 +1,17 @@
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Infrastructure.deps.json
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Infrastructure.dll
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Infrastructure.pdb
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.csproj.AssemblyReference.cache
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.AssemblyInfoInputs.cache
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.AssemblyInfo.cs
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.csproj.CoreCompileInputs.cache
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.dll
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/refint/BuberDinner.Infrastructure.dll
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.pdb
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/ref/BuberDinner.Infrastructure.dll
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Application.dll
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Domain.dll
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Application.pdb
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Infrastructure/bin/Debug/net7.0/BuberDinner.Domain.pdb
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Infrastructure/obj/Debug/net7.0/BuberDinner.Infrastructure.csproj.CopyComplete

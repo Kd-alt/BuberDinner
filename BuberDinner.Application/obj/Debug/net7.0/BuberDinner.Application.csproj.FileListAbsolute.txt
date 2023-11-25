@@ -1,0 +1,15 @@
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Application/bin/Debug/net7.0/BuberDinner.Application.deps.json
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Application/bin/Debug/net7.0/BuberDinner.Application.dll
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Application/bin/Debug/net7.0/BuberDinner.Application.pdb
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.csproj.AssemblyReference.cache
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.AssemblyInfoInputs.cache
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.AssemblyInfo.cs
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.csproj.CoreCompileInputs.cache
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.dll
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/refint/BuberDinner.Application.dll
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.pdb
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/ref/BuberDinner.Application.dll
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Application/bin/Debug/net7.0/BuberDinner.Domain.dll
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Application/bin/Debug/net7.0/BuberDinner.Domain.pdb
+/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Application/obj/Debug/net7.0/BuberDinner.Application.csproj.CopyComplete
