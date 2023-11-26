@@ -10,3 +10,15 @@
 /home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Contracts/obj/Debug/net7.0/refint/BuberDinner.Contracts.dll
 /home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Contracts/obj/Debug/net7.0/BuberDinner.Contracts.pdb
 /home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Contracts/obj/Debug/net7.0/ref/BuberDinner.Contracts.dll
+C:\Users\kaarm\Source\Repos\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.deps.json
+C:\Users\kaarm\Source\Repos\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.dll
+C:\Users\kaarm\Source\Repos\BuberDinner\BuberDinner.Contracts\bin\Debug\net7.0\BuberDinner.Contracts.pdb
+C:\Users\kaarm\Source\Repos\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaarm\Source\Repos\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+C:\Users\kaarm\Source\Repos\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.AssemblyInfo.cs
+C:\Users\kaarm\Source\Repos\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\kaarm\Source\Repos\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.sourcelink.json
+C:\Users\kaarm\Source\Repos\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.dll
+C:\Users\kaarm\Source\Repos\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\refint\BuberDinner.Contracts.dll
+C:\Users\kaarm\Source\Repos\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\BuberDinner.Contracts.pdb
+C:\Users\kaarm\Source\Repos\BuberDinner\BuberDinner.Contracts\obj\Debug\net7.0\ref\BuberDinner.Contracts.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2st4b5fpQqhWy+Nli8MgNSKqtzMoiZcy2gLmQsPbh+nHTE0TPpLK9x0qPeFdVZVM3kKQSl+cL9UG/ewWLQUpqw==",
+  "dgSpecHash": "TF7pptc0w5S2p3qetmNSpC7mKdMFB51W6z90922AAHL1EdwnfbG1e0tfBF7TKYgAHAtLopfxctzmKtq91ckopg==",
   "success": true,
-  "projectFilePath": "/home/stormkd/Documents/Dotnet_Projects/alpha/BuberDinner/BuberDinner.Application/BuberDinner.Application.csproj",
+  "projectFilePath": "C:\\Users\\kaarm\\source\\repos\\BuberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

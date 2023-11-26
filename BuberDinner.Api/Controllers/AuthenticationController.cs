@@ -1,3 +1,4 @@
+using BuberDinner.Contracts.Authentication;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BuberDinner.Api.Controllers;
@@ -7,14 +8,14 @@ namespace BuberDinner.Api.Controllers;
 public class AuthenticationController:ControllerBase
 {
     [Route("register")]
-    public IActionResult Register()
+    public IActionResult Register(RegisterRequest request)
     {
-        return Ok();
+        return Ok(request);
     }
 
     [Route("login")]
-    public IActionResult Login()
+    public IActionResult Login(LoginRequest request)
     {
-        return Ok();
+        return Ok(request);
     }
 }
