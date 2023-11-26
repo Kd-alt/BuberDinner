@@ -1,24 +1,4 @@
 # For more info on HTTP files go to https://aka.ms/vs/httpfile
 
-@host=https://localhost:7101
-
-POST {{host}}/auth/register
-Content-Type:application/json
-
-{
-  "firstName":"test",
-  "lastName":"K",
-  "email":"test@gmail.com",
-  "password":"anc"
-}
-
 ### New Login Request
 
-
-POST {{host}}/auth/login
-Content-Type:application/json
-
-{
-  "email":"test@gmail.com",
-  "password":"anc"
-}
