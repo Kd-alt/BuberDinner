@@ -1,4 +1,4 @@
-using BuberDinner.Application.Authentication;
+using BuberDinner.Application.Services.Authentication;
 using BuberDinner.Contracts.Authentication;
 using Microsoft.AspNetCore.Mvc;
 
@@ -19,10 +19,10 @@ public class AuthenticationController:ControllerBase
     {
         var authresponse =_authservice.Register(request.FirstName,request.LastName,request.Email,request.Password);
         var response = new AuthenticationResponse(
-            authresponse.Id,
-            authresponse.FirstName,
-            authresponse.LastName,
-            authresponse.Email,
+            authresponse.User.Id,
+            authresponse.User.FirstName,
+            authresponse.User.LastName,
+            authresponse.User.Email,
             authresponse.Token
         );
         return Ok(response);
@@ -33,10 +33,10 @@ public class AuthenticationController:ControllerBase
     {
         var authresponse =_authservice.Login(request.Email,request.Password);
         var response = new AuthenticationResponse(
-            authresponse.Id,
-            authresponse.FirstName,
-            authresponse.LastName,
-            authresponse.Email,
+            authresponse.User.Id,
+            authresponse.User.FirstName,
+            authresponse.User.LastName,
+            authresponse.User.Email,
             authresponse.Token
         );
         return Ok(response);
